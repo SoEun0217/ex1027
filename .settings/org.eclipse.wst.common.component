@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="ex1027">
+    <wb-module deploy-name="step15_ElecBoard">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="ex1027"/>
-        <property name="java-output-path" value="/ex1027/build/classes"/>
+        <property name="java-output-path" value="/step15_ElecBoard/build/classes"/>
+        <property name="context-root" value="step15_ElecBoard"/>
     </wb-module>
 </project-modules>
